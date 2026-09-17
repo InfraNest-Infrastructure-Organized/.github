@@ -1,7 +1,7 @@
 # Support
 
 **Using InfraNest, or something is not working?**
-The help centre is at **[infranest.app/docs](https://infranest.app/docs/)**, and there is a help drawer
+The help centre is at **[infranest.io/docs](https://infranest.io/docs/)**, and there is a help drawer
 inside the app. Support requests are handled through your account, not through GitHub — that way we can
 see your organisation and act on it.
 

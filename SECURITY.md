@@ -11,7 +11,7 @@ on the affected repository — the *Security* tab, then *Report a vulnerability*
 channel visible only to us, and it keeps the whole exchange in one place.
 
 If the affected component is not one of our public repositories — the hosted platform at
-`dashboard.infranest.app`, for example — please use private vulnerability reporting on
+`app.infranest.io`, for example — please use private vulnerability reporting on
 [`.github`](https://github.com/InfraNest-Infrastructure-Organized/.github/security/advisories/new) and we
 will route it internally.
 

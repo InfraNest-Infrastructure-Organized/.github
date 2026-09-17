@@ -1,6 +1,6 @@
 # .github
 
-Organisation-wide files for [InfraNest](https://infranest.app) — *domains, DNS, cloud servers,
+Organisation-wide files for [InfraNest](https://infranest.io) — *domains, DNS, cloud servers,
 certificates and uptime monitoring, in one place, across every provider.*
 
 | File | What it is |

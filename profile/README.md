@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://dashboard.infranest.app">Sign in</a> ·
-  <a href="https://infranest.app">Product</a> ·
-  <a href="https://infranest.app/docs/">Documentation</a>
+  <a href="https://app.infranest.io">Sign in</a> ·
+  <a href="https://infranest.io">Product</a> ·
+  <a href="https://infranest.io/docs/">Documentation</a>
 </p>
 
 ---
