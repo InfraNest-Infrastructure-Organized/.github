@@ -69,7 +69,8 @@ everything you need to build on the API, are published, so you can read exactly 
 | [**infranest-action**](https://github.com/InfraNest-Infrastructure-Organized/infranest-action) | InfraNest in a GitHub Actions workflow: silence alerts while you deploy, pause monitors, reset your sandbox. |
 | [**infranest-openapi**](https://github.com/InfraNest-Infrastructure-Organized/infranest-openapi) | The public API described in OpenAPI 3, updated daily, with a release for every change. Generate a client or give it to your AI tools. |
 
-Every repository is checked against the published API on every change, so what you copy keeps working.
+The examples and the action are checked against the published API every week and on every change, so what you
+copy keeps working.
 
 ## Security
 
