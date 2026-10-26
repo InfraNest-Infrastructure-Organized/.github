@@ -54,6 +54,8 @@ day-to-day work: DNS records, monitors, maintenance windows, incidents, status p
   the full API reference.
 - **A free sandbox** to try every write safely: sample data, test tokens, and nothing reaches a provider or the
   internet. See the [sandbox guide](https://developers.infranest.io/sandbox).
+- **Your AI assistant**: Claude, ChatGPT, Cursor, VS Code and Gemini CLI can read your account through the
+  [MCP server](https://developers.infranest.io/ai-assistants). It only reads.
 - **Safe by design**: scoped tokens that expire, per-token rate limits, dry runs for DNS changes, idempotency keys
   for retries, and a security email whenever a token is created.
 
@@ -68,6 +70,7 @@ everything you need to build on the API, are published, so you can read exactly 
 | [**infranest-examples**](https://github.com/InfraNest-Infrastructure-Organized/infranest-examples) | Ready-to-run scripts for the API in shell, Python, JavaScript and PowerShell: dynamic DNS, Let's Encrypt DNS-01, maintenance windows from CI, monitors per deploy, the audit log to a SIEM. |
 | [**infranest-action**](https://github.com/InfraNest-Infrastructure-Organized/infranest-action) | InfraNest in a GitHub Actions workflow: silence alerts while you deploy, pause monitors, reset your sandbox. |
 | [**infranest-openapi**](https://github.com/InfraNest-Infrastructure-Organized/infranest-openapi) | The public API described in OpenAPI 3, updated daily, with a release for every change. Generate a client or give it to your AI tools. |
+| [**infranest-mcp**](https://github.com/InfraNest-Infrastructure-Organized/infranest-mcp) | The hosted MCP server: ask your AI assistant what is down, where a hostname points, or what expires soon. Read-only, with a registry entry and a Gemini CLI extension. |
 
 The examples and the action are checked against the published API every week and on every change, so what you
 copy keeps working.
