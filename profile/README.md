@@ -14,7 +14,7 @@
   <a href="https://app.infranest.io">Sign in</a> ·
   <a href="https://infranest.io/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Product</a> ·
   <a href="https://infranest.io/docs/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Help center</a> ·
-  <a href="https://developers.infranest.io">Developers</a> ·
+  <a href="https://developers.infranest.io/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Developers</a> ·
   <a href="https://status.infranest.io">Status</a>
 </p>
 
@@ -50,12 +50,12 @@ day-to-day work: DNS records, monitors, maintenance windows, incidents, status p
 
 ## Build on InfraNest
 
-- **[Developer documentation](https://developers.infranest.io)**: getting started, tokens and scopes, errors, and
+- **[Developer documentation](https://developers.infranest.io/?utm_source=github&utm_medium=readme&utm_campaign=org-profile)**: getting started, tokens and scopes, errors, and
   the full API reference.
 - **A free sandbox** to try every write safely: sample data, test tokens, and nothing reaches a provider or the
-  internet. See the [sandbox guide](https://developers.infranest.io/sandbox).
+  internet. See the [sandbox guide](https://developers.infranest.io/sandbox?utm_source=github&utm_medium=readme&utm_campaign=org-profile).
 - **Your AI assistant**: Claude, ChatGPT, Cursor, VS Code and Gemini CLI can read your account through the
-  [MCP server](https://developers.infranest.io/ai-assistants). It only reads.
+  [MCP server](https://developers.infranest.io/ai-assistants?utm_source=github&utm_medium=readme&utm_campaign=org-profile). It only reads.
 - **Safe by design**: scoped tokens that expire, per-token rate limits, dry runs for DNS changes, idempotency keys
   for retries, and a security email whenever a token is created.
 
