@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://app.infranest.io">Sign in</a> ·
-  <a href="https://infranest.io">Product</a> ·
-  <a href="https://infranest.io/docs/">Help center</a> ·
+  <a href="https://infranest.io/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Product</a> ·
+  <a href="https://infranest.io/docs/?utm_source=github&utm_medium=readme&utm_campaign=org-profile">Help center</a> ·
   <a href="https://developers.infranest.io">Developers</a> ·
   <a href="https://status.infranest.io">Status</a>
 </p>
